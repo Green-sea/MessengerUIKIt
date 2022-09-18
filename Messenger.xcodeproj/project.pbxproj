@@ -24,6 +24,7 @@
 		184B558028D3839B00F6B1B0 /* NewConvesationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184B557F28D3839B00F6B1B0 /* NewConvesationViewController.swift */; };
 		184B558228D383AE00F6B1B0 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184B558128D383AE00F6B1B0 /* ProfileViewController.swift */; };
 		184B558528D4C59C00F6B1B0 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184B558428D4C59C00F6B1B0 /* Extensions.swift */; };
+		18696DD528D732F800F4F0A1 /* DatabaseManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18696DD428D732F800F4F0A1 /* DatabaseManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		184B557F28D3839B00F6B1B0 /* NewConvesationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewConvesationViewController.swift; sourceTree = "<group>"; };
 		184B558128D383AE00F6B1B0 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 		184B558428D4C59C00F6B1B0 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		18696DD428D732F800F4F0A1 /* DatabaseManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatabaseManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +133,7 @@
 				184B555D28D380E000F6B1B0 /* AppDelegate.swift */,
 				184B555F28D380E000F6B1B0 /* SceneDelegate.swift */,
 				184B558428D4C59C00F6B1B0 /* Extensions.swift */,
+				18696DD428D732F800F4F0A1 /* DatabaseManager.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				184B557828D3832500F6B1B0 /* LoginViewController.swift in Sources */,
+				18696DD528D732F800F4F0A1 /* DatabaseManager.swift in Sources */,
 				184B557A28D3833400F6B1B0 /* RegisterViewController.swift in Sources */,
 				184B556228D380E000F6B1B0 /* ConversationsViewController.swift in Sources */,
 				184B558028D3839B00F6B1B0 /* NewConvesationViewController.swift in Sources */,
